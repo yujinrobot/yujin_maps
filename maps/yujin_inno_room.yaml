@@ -1,5 +1,5 @@
 free_thresh: 0.196
-image: cropped.pgm
+image: yujin_inno_room.pgm
 negate: 0
 occupied_thresh: 0.65
 origin: [-5.0, -4.549999999999999, 0.0]
