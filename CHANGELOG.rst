@@ -2,8 +2,8 @@
 Changelog for package yujin_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.1 (2014-06-23)
+------------------
 * cropped version of yujin_rnd map
 * Contributors: Jihoon Lee
 
