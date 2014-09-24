@@ -2,8 +2,8 @@
 Changelog for package yujin_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.3 (2014-09-24)
+------------------
 * Merge pull request `#4 <https://github.com/yujinrobot/yujin_maps/issues/4>`_ from mehditlili/master
   new yujin_inno_room map
 * deleted old map
