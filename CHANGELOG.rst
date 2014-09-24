@@ -2,6 +2,15 @@
 Changelog for package yujin_maps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge pull request `#4 <https://github.com/yujinrobot/yujin_maps/issues/4>`_ from mehditlili/master
+  new yujin_inno_room map
+* deleted old map
+* fixed wrong path to pgm file
+* new yujin_inno_room
+* Contributors: Jihoon Lee, Mehdi Tlili
+
 0.2.2 (2014-08-08)
 ------------------
 * lower occupid threshold from 0.65 to 0.55
